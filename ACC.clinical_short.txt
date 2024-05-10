@@ -1,0 +1,80 @@
+patient	year_of_birth	gender	race	definition	tumor_stage	age_at_diagnosis	vital_status	months_to_death	months_to_last_follow_up	tumor_stage_2
+TCGA-OR-A5K6	1954	female	white	Primary solid Tumor	stage ii	56.6	alive		49.1	ii
+TCGA-OR-A5LP	1972	female	not reported	Primary solid Tumor	stage ii	37.2	alive		61.1	ii
+TCGA-OR-A5J2	1960	female	white	Primary solid Tumor	stage iv	44.1	dead	55.2		iv
+TCGA-OR-A5LT	1955	male	not reported	Primary solid Tumor	stage iii	57.6	alive		18.1	iii
+TCGA-OR-A5JI	1986	male	white	Primary solid Tumor	stage i	22.4	alive		76.7	i
+TCGA-OR-A5L9	1958	female	white	Primary solid Tumor	stage ii	53.5	alive		28.7	ii
+TCGA-OR-A5LC	1940	female	white	Primary solid Tumor	stage iv	71.4	dead	5.2		iv
+TCGA-OR-A5LO	1947	female	not reported	Primary solid Tumor	stage ii	61.2	dead	79.1	69.1	ii
+TCGA-OR-A5K1	1958	male	white	Primary solid Tumor	stage ii	48.2	alive		108.2	ii
+TCGA-OR-A5LS	1977	female	not reported	Primary solid Tumor	stage ii	34.7	alive		36.1	ii
+TCGA-OR-A5LE	1983	male	white	Primary solid Tumor	stage ii	14.7	dead	21.8		ii
+TCGA-OR-A5KY	1987	female	white	Primary solid Tumor	stage iv	23.9	dead	12.9		iv
+TCGA-OR-A5JS	1946	female	white	Primary solid Tumor	stage ii	65.8	alive		12.6	ii
+TCGA-OR-A5L8	1975	female	white	Primary solid Tumor	stage ii	36.9	alive		29.1	ii
+TCGA-OR-A5JG	1947	male	white	Primary solid Tumor	stage iv	61.3	dead	17.8		iv
+TCGA-OR-A5JY	1943	female	white	Primary solid Tumor	stage iv	69.0	dead	18.2		iv
+TCGA-OR-A5JT	1946	female	white	Primary solid Tumor	stage ii	65.1	alive		29.8	ii
+TCGA-PK-A5HA	1948	male	not reported	Primary solid Tumor	stage i	63.9	alive		39.5	i
+TCGA-PK-A5H8	1962	male	white	Primary solid Tumor	stage ii	42.1	alive		119.2	ii
+TCGA-OR-A5LN	1977	female	not reported	Primary solid Tumor	stage ii	31.2	alive		77.0	ii
+TCGA-OU-A5PI	1958	female	white	Primary solid Tumor	stage iv	53.4	alive		38.5	iv
+TCGA-OR-A5K4	1947	female	white	Primary solid Tumor	stage iii	64.3	alive		35.6	iii
+TCGA-OR-A5KT	1962	female	white	Primary solid Tumor	stage i	44.4	alive		95.2	i
+TCGA-OR-A5K0	1940	female	white	Primary solid Tumor	stage ii	69.5	alive		33.8	ii
+TCGA-P6-A5OG	1966	female	white	Primary solid Tumor	stage iv	45.6	dead	12.6		iv
+TCGA-OR-A5JX	1959	male	white	Primary solid Tumor	stage iii	50.4	alive		31.2	iii
+TCGA-OR-A5L5	1933	female	white	Primary solid Tumor	stage i	77.4	alive		43.3	i
+TCGA-OR-A5J5	1970	male	white	Primary solid Tumor	stage iii	30.6	dead	12.0		iii
+TCGA-OR-A5LG	1962	male	white	Primary solid Tumor	stage iii	46.2	alive		52.3	iii
+TCGA-OR-A5K8	1973	male	white	Primary solid Tumor	stage ii	39.5	alive		24.6	ii
+TCGA-OR-A5JP	1972	male	white	Primary solid Tumor	stage ii	40.2	alive		15.3	ii
+TCGA-OR-A5LR	1981	female	not reported	Primary solid Tumor	stage ii	30.8	alive		28.1	ii
+TCGA-OR-A5J8	1945	male	white	Primary solid Tumor	stage iii	66.4	dead	19.0		iii
+TCGA-OR-A5JC	1964	male	white	Primary solid Tumor	not reported	38.0	dead	57.6		not reported
+TCGA-OR-A5LA	1960	female	white	Primary solid Tumor	stage ii	52.7	alive		23.7	ii
+TCGA-OR-A5JO	1979	female	white	Primary solid Tumor	stage i	26.1	alive		39.3	i
+TCGA-OR-A5JV	1953	male	white	Primary solid Tumor	stage ii	55.6	alive		66.5	ii
+TCGA-OR-A5LB	1947	male	white	Primary solid Tumor	stage iv	59.0	dead	39.6		iv
+TCGA-OR-A5KU	1963	female	white	Primary solid Tumor	stage ii	37.1	alive		153.7	ii
+TCGA-OR-A5KV	1986	female	white	Primary solid Tumor	stage iii	17.1	alive		127.6	iii
+TCGA-OR-A5JA	1951	female	white	Primary solid Tumor	stage iv	53.2	dead	30.3		iv
+TCGA-OR-A5KO	1970	female	white	Primary solid Tumor	stage iv	40.0	alive		46.5	iv
+TCGA-OR-A5J9	1988	female	white	Primary solid Tumor	stage ii	22.4	alive		44.5	ii
+TCGA-OR-A5J1	1942	male	white	Primary solid Tumor	stage ii	58.9	dead	44.6		ii
+TCGA-OR-A5LM	1985	male	not reported	Primary solid Tumor	stage ii	23.9	alive		61.1	ii
+TCGA-OR-A5J3	1985	female	white	Primary solid Tumor	stage iii	23.6	alive		68.8	iii
+TCGA-OR-A5KX	1985	female	white	Primary solid Tumor	stage iii	25.5	alive		44.9	iii
+TCGA-OR-A5JW	1961	male	white	Primary solid Tumor	stage ii	47.9	alive		72.4	ii
+TCGA-OR-A5K2	1978	female	white	Primary solid Tumor	stage iii	32.8	dead	32.7		iii
+TCGA-OR-A5JK	1960	male	white	Primary solid Tumor	stage iv	49.9	alive		49.2	iv
+TCGA-OR-A5JF	1938	female	white	Primary solid Tumor	stage ii	69.8	alive		66.3	ii
+TCGA-OR-A5KW	1954	female	white	Primary solid Tumor	stage iii	55.7	alive		68.3	iii
+TCGA-OR-A5JE	1988	female	white	Primary solid Tumor	stage i	17.7	dead	69.2		i
+TCGA-OR-A5JJ	1944	male	white	Primary solid Tumor	stage iv	65.9	dead	16.1	10.2	iv
+TCGA-PA-A5YG	1961	male	white	Primary solid Tumor	stage ii	51.8	alive		24.9	ii
+TCGA-OR-A5LH	1969	female	white	Primary solid Tumor	stage ii	36.1	dead	78.5		ii
+TCGA-PK-A5HB	1940	male	not reported	Primary solid Tumor	not reported	63.8	alive		42.5	not reported
+TCGA-OR-A5JB	1948	male	white	Primary solid Tumor	stage iv	52.5	dead	18.1		iv
+TCGA-OR-A5J7	1979	female	white	Primary solid Tumor	stage iii	30.9	dead	16.1		iii
+TCGA-OR-A5L6	1951	male	white	Primary solid Tumor	stage ii	60.4	alive		28.3	ii
+TCGA-OR-A5JQ	1980	female	white	Primary solid Tumor	stage ii	26.5	alive		36.3	ii
+TCGA-OR-A5LJ	1951	female	white	Primary solid Tumor	stage iv	54.9	dead	36.3		iv
+TCGA-OR-A5J6	1977	female	black or african american	Primary solid Tumor	stage ii	29.7	alive		88.9	ii
+TCGA-OR-A5K3	1952	male	white	Primary solid Tumor	stage ii	53.0	alive		114.0	ii
+TCGA-OR-A5JD	1948	female	white	Primary solid Tumor	stage ii	57.5	alive		99.9	ii
+TCGA-OR-A5JL	1973	female	white	Primary solid Tumor	stage i	36.0	alive		67.6	i
+TCGA-OR-A5LD	1946	male	white	Primary solid Tumor	stage iii	52.3	dead	39.4		iii
+TCGA-OR-A5JM	1986	female	white	Primary solid Tumor	stage iv	25.6	dead	18.5		iv
+TCGA-OR-A5JZ	1951	male	white	Primary solid Tumor	stage ii	60.8	alive		27.0	ii
+TCGA-OR-A5KZ	1970	male	white	Primary solid Tumor	stage ii	42.7	dead	4.1		ii
+TCGA-PK-A5H9	1985	female	asian	Primary solid Tumor	stage ii	27.9	alive		20.3	ii
+TCGA-OR-A5JR	1957	male	white	Primary solid Tumor	stage i	45.5	alive		121.3	i
+TCGA-OR-A5LL	1932	female	not reported	Primary solid Tumor	stage ii	75.6	dead	53.1		ii
+TCGA-OR-A5L3	1933	female	white	Primary solid Tumor	stage i	67.8	alive		152.2	i
+TCGA-OR-A5K5	1953	female	white	Primary solid Tumor	stage iii	60.0	dead	16.4	8.3	iii
+TCGA-OR-A5LK	1945	male	not reported	Primary solid Tumor	stage ii	62.7	alive		90.1	ii
+TCGA-OR-A5L4	1963	female	white	Primary solid Tumor	stage iii	48.8	alive		31.8	iii
+TCGA-P6-A5OF	1955	female	white	Primary solid Tumor	stage iii	55.0	dead	6.8		iii
+TCGA-OR-A5K9	1941	female	white	Primary solid Tumor	stage ii	61.9	dead	11.3		ii

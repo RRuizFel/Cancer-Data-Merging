@@ -1,0 +1,472 @@
+patient	year_of_birth	gender	race	definition	tumor_stage	age_at_diagnosis	vital_status	months_to_death	months_to_last_follow_up	tumor_stage_2
+TCGA-EE-A2MG	1974.0	male	white	Metastatic	stage i	23.0	dead	103.3		i
+TCGA-EE-A3JD	1939.0	male	white	Metastatic	stage iii	71.0	dead	27.4		iii
+TCGA-D3-A5GL	1929.0	male	white	Metastatic	stage ib	74.2	alive		125.9	i
+TCGA-EE-A2MU	1934.0	male	white	Metastatic	stage ia	71.8	alive		53.3	i
+TCGA-D3-A3CF	1948.0	female	white	Metastatic	stage iiic	61.4	dead	24.5		iii
+TCGA-EE-A2M8	1946.0	female	white	Metastatic	stage iii	54.2	dead	19.8		iii
+TCGA-EE-A2GL	1966.0	female	white	Metastatic	stage iia	40.2	alive		79.7	ii
+TCGA-GN-A268	1922.0	female	white	Metastatic	stage iib	83.3	dead	62.8		ii
+TCGA-EE-A29T	1931.0	female	white	Metastatic	not reported	51.4	alive		370.1	not reported
+TCGA-FS-A1ZK	1937.0	male	white	Metastatic	stage ii	68.0	dead	23.9		ii
+TCGA-EE-A2MS	1927.0	male	white	Metastatic	stage ii	72.5	alive		162.6	ii
+TCGA-D3-A2J9	1928.0	male	white	Metastatic	stage iiic	75.1	dead	23.8		iii
+TCGA-D3-A3CC	1936.0	female	white	Metastatic	stage iic	69.5	alive		87.0	ii
+TCGA-BF-A5ES	1936.0	female	white	Primary solid Tumor	stage iic	76.9	alive		16.1	ii
+TCGA-EB-A41A	1922.0	male	white	Primary solid Tumor	stage iic	90.0	alive		8.6	ii
+TCGA-EB-A97M	1947.0	male	white	Primary solid Tumor	stage iic	66.3	alive		13.6	ii
+TCGA-EE-A2A1	1958.0	male	white	Metastatic	stage ib	46.8	alive		116.0	i
+TCGA-EE-A183	1959.0	male	white	Metastatic	stage 0	48.7	dead	26.9		0
+TCGA-D3-A3MV	1972.0	female	white	Metastatic	stage iiib	39.0	alive		45.3	iii
+TCGA-3N-A9WC	1927.0	male	white	Metastatic	stage iia	82.9	alive		66.5	ii
+TCGA-WE-A8K4	1928.0	male	white	Primary solid Tumor	stage iib	85.7	alive		20.2	ii
+TCGA-D9-A4Z2	1962.0	male	white	Primary solid Tumor	stage iiic	50.5	dead	6.2	3.1	iii
+TCGA-DA-A95Y	1944.0	male	white	Metastatic	stage iic	68.7	dead	14.1	9.9	ii
+TCGA-ER-A19J	1950.0	male	white	Metastatic	stage iv	54.0	dead	6.4	6.4	iv
+TCGA-D3-A5GR	1975.0	female	white	Metastatic	stage iii	23.6	alive		178.4	iii
+TCGA-WE-A8K6	1934.0	male	white	Metastatic	stage iiib	80.0	alive		18.0	iii
+TCGA-GF-A6C8	1950.0	female	white	Metastatic	stage iib	62.2	alive		2.0	ii
+TCGA-BF-A9VF	1936.0	male	white	Primary solid Tumor	stage iic	77.5	alive		14.5	ii
+TCGA-D3-A1QA	1950.0	male	white	Additional Metastatic	stage ib	55.4	alive		91.0	i
+TCGA-EB-A551	1934.0	female	white	Primary solid Tumor	stage iiic	78.5	alive		19.4	iii
+TCGA-D3-A1QB	1930.0	female	white	Metastatic	stage iii	75.5	alive		95.8	iii
+TCGA-EE-A29V	1923.0	male	white	Metastatic	stage iiic	85.1	dead	25.9		iii
+TCGA-FW-A5DY	1964.0	female	white	Metastatic	stage iii	48.5	alive		19.3	iii
+TCGA-GN-A4U3	1974.0	male	white	Metastatic	stage iii	30.9	alive		122.0	iii
+TCGA-ER-A2NF	1957.0	male	white	Primary solid Tumor	stage iiib	53.4	dead	28.8	16.4	iii
+TCGA-EB-A5SE	1939.0	male	white	Primary solid Tumor	stage iib	73.8	dead	13.2	0.0	ii
+TCGA-EB-A3Y7	1926.0	female	white	Primary solid Tumor	stage iiib	86.6	dead	10.7	0.0	iii
+TCGA-D3-A8GB	1955.0	male	white	Metastatic	stage iiib	48.9	dead	30.9		iii
+TCGA-ER-A3PL	1979.0	male	white	Metastatic	stage iv	30.2	alive		33.2	iv
+TCGA-EE-A182	1924.0	female	white	Metastatic	stage iiic	84.1	dead	14.7		iii
+TCGA-D9-A6EA	1942.0	male	white	Metastatic	stage iiic	70.0	alive		25.2	iii
+TCGA-EE-A2A5	1964.0	male	white	Metastatic	stage ib	43.9	dead	39.3		i
+TCGA-EB-A4OY	1947.0	female	white	Primary solid Tumor	stage iiib	65.1	alive		32.1	iii
+TCGA-EE-A181	1923.0	female	white	Metastatic	stage ii	82.1	dead	33.8		ii
+TCGA-FS-A4F4	1937.0	male	white	Metastatic	stage ii	64.8	dead	66.7		ii
+TCGA-DA-A1I2	1951.0	male	white	Metastatic	stage iii	45.7	dead	176.6	167.4	iii
+TCGA-D3-A1Q9	1933.0	male	white	Metastatic	stage iiib	72.5	dead	31.6		iii
+TCGA-WE-A8ZR	1964.0	male	white	Metastatic	stage iiic	49.4	dead	9.0	4.4	iii
+TCGA-YG-AA3N	1946.0	male	not reported	Primary solid Tumor	stage iic	67.1	alive		10.1	ii
+TCGA-EB-A3XE	1935.0	female	white	Primary solid Tumor	stage iia	77.1	alive		5.9	ii
+TCGA-EE-A29N	1931.0	male	white	Metastatic	i/ii nos	78.9	dead	18.6		i/ii nos
+TCGA-RP-A690	1939.0	female	white	Metastatic	not reported	66.9	alive		0.2	not reported
+TCGA-GN-A9SD	1950.0	female	white	Metastatic	stage ia	59.8	dead	59.4		i
+TCGA-EE-A3JE	1934.0	male	white	Metastatic	stage iiib	75.2	alive		51.4	iii
+TCGA-D9-A149	1942.0	female	white	Metastatic	not reported	65.1	alive		54.7	not reported
+TCGA-EB-A4OZ	1971.0	female	white	Primary solid Tumor	stage iiic	42.0	alive		20.4	iii
+TCGA-EE-A20H	1939.0	male	white	Metastatic	stage i	56.1	dead	168.4		i
+TCGA-GN-A267	1967.0	male	white	Metastatic	stage iiia	38.5	dead	64.5		iii
+TCGA-EE-A29W	1955.0	male	white	Metastatic	stage 0	42.2	alive		195.1	0
+TCGA-ER-A42L	1952.0	male	white	Metastatic	stage ii	49.2	alive		149.1	ii
+TCGA-FW-A3R5	1942.0	male	white	Metastatic	stage iii	68.1	alive		37.0	iii
+TCGA-FS-A1Z4	1939.0	male	white	Metastatic	stage i	62.8	dead	28.1		i
+TCGA-EB-A85I	1947.0	male	white	Primary solid Tumor	stage iic	66.8	alive		11.9	ii
+TCGA-DA-A1HV	1933.0	female	white	Metastatic	stage iiib	75.4	alive		76.6	iii
+TCGA-EE-A180	1932.0	male	white	Metastatic	stage iii	69.9	dead	95.0		iii
+TCGA-D3-A3BZ	1939.0	male	white	Metastatic	stage iib	63.8	alive		130.8	ii
+TCGA-ER-A19C	1921.0	male	white	Metastatic	stage i	77.7	dead	48.9		i
+TCGA-EE-A2MH	1935.0	male	white	Metastatic	stage iii	66.1	dead	17.0		iii
+TCGA-FR-A728	1959.0	female	white	Primary solid Tumor	stage iiib	54.6	alive		19.2	iii
+TCGA-FR-A8YD	1955.0	female	white	Metastatic	stage iic	56.9	dead	36.3	29.5	ii
+TCGA-FS-A1ZE	1968.0	male	white	Metastatic	stage iic	40.0	dead	46.5	40.3	ii
+TCGA-EE-A2GM	1934.0	female	white	Metastatic	stage iic	70.4	alive		75.5	ii
+TCGA-EE-A2GT	1932.0	male	white	Metastatic	stage iia	77.7	alive		44.9	ii
+TCGA-FS-A4F8	1945.0	male	white	Metastatic	stage i	52.4	dead	174.9		i
+TCGA-D3-A2JA	1935.0	male	white	Metastatic	stage iiia	68.7	alive		115.6	iii
+TCGA-ER-A2NG	1966.0	female	white	Metastatic	stage iiic	43.5	dead	49.0	31.3	iii
+TCGA-D3-A2JN	1961.0	female	white	Metastatic	stage iii	46.9	dead	66.5	56.2	iii
+TCGA-GF-A4EO	1938.0	female	white	Metastatic	stage iiic	74.2	alive		19.4	iii
+TCGA-D3-A8GV	1968.0	male	white	Metastatic	i/ii nos	25.6	dead	167.8		i/ii nos
+TCGA-FS-A4FB	1963.0	female	white	Metastatic	stage iii	46.3	dead	26.7		iii
+TCGA-EE-A2ML	1959.0	male	white	Metastatic	stage ii	36.0	dead	216.8	203.2	ii
+TCGA-D3-A2JB	1927.0	female	black or african american	Metastatic	stage 0	70.6	dead	168.1		0
+TCGA-EB-A41B	1936.0	female	white	Primary solid Tumor	stage iic	76.7	alive		9.6	ii
+TCGA-RP-A6K9		female	white	Metastatic	not reported		alive			not reported
+TCGA-YD-A9TA	1935.0	male	white	Metastatic	not reported	75.3	alive		49.2	not reported
+TCGA-D9-A4Z3	1939.0	female	white	Primary solid Tumor	stage iiic	73.4	alive		16.6	iii
+TCGA-EB-A82C	1943.0	female	asian	Primary solid Tumor	stage iic	70.8	alive		0.6	ii
+TCGA-EB-A4IS	1935.0	male	white	Primary solid Tumor	stage iib	77.5	alive		25.5	ii
+TCGA-EB-A6QZ	1937.0	female	white	Primary solid Tumor	stage iia	76.9	dead	11.6	-0.1	ii
+TCGA-3N-A9WB	1941.0	male	white	Metastatic	stage ia	71.7	dead	17.0		i
+TCGA-BF-AAP8	1955.0	male	white	Primary solid Tumor	stage iic	58.6	alive		14.7	ii
+TCGA-EB-A51B	1959.0	male	white	Primary solid Tumor	stage iic	53.8	alive		30.6	ii
+TCGA-EB-A553	1950.0	male	white	Primary solid Tumor	stage iic	62.9	alive		7.4	ii
+TCGA-FW-A3TV	1955.0	female	white	Metastatic	stage iiib	57.4	alive		13.5	iii
+TCGA-EE-A2A0	1929.0	female	white	Metastatic	stage iia	77.5	dead	46.8		ii
+TCGA-DA-A1I5	1976.0	female	white	Metastatic	stage iv	27.4	alive		120.1	iv
+TCGA-EB-A5UM	1964.0	female	white	Primary solid Tumor	stage iic	48.9	alive		25.6	ii
+TCGA-FR-A7U8	1962.0	male	white	Metastatic	stage iiic	50.2	alive		27.9	iii
+TCGA-EE-A17Z	1951.0	male	white	Metastatic	stage iib	57.4	dead	8.7		ii
+TCGA-W3-A824	1932.0	male	white	Metastatic	stage i	63.3	alive		228.3	i
+TCGA-EE-A2MJ	1939.0	male	white	Metastatic	stage iii	60.4	dead	96.3		iii
+TCGA-EE-A2MC	1927.0	male	white	Metastatic	stage i	73.6	dead	61.5		i
+TCGA-ER-A19A	1927.0	male	white	Metastatic	stage iv	79.9	alive		77.8	iv
+TCGA-FR-A3YO		female	white	Metastatic	i/ii nos		alive			i/ii nos
+TCGA-ER-A19O	1950.0	male	white	Metastatic	stage iiib	56.8	dead			iii
+TCGA-ER-A19Q	1964.0	female	white	Metastatic	not reported	37.4	dead	50.9		not reported
+TCGA-WE-AAA3	1929.0	female	white	Metastatic	stage iiic	84.4	alive		21.4	iii
+TCGA-EE-A2MQ	1936.0	female	white	Metastatic	stage iiia	71.0	dead	43.3		iii
+TCGA-EE-A3J8	1947.0	male	white	Metastatic	stage iiia	59.4	dead	34.3		iii
+TCGA-FS-A1ZZ	1952.0	female	white	Metastatic	stage iib	54.0	dead	27.0		ii
+TCGA-EB-A82B	1955.0	female	asian	Primary solid Tumor	stage iii	58.1	alive		12.8	iii
+TCGA-EB-A44N	1953.0	male	white	Primary solid Tumor	stage iic	59.2	dead	6.7	1.5	ii
+TCGA-BF-AAOU	1940.0	female	white	Primary solid Tumor	stage iic	73.2	alive		15.7	ii
+TCGA-EB-A5SG	1951.0	female	white	Metastatic	not reported	57.4	alive		68.3	not reported
+TCGA-EB-A57M	1956.0	male	asian	Primary solid Tumor	stage iiib	56.7	dead	15.5	13.1	iii
+TCGA-EB-A44R	1959.0	male	asian	Metastatic	stage iiib	52.8	dead	10.4	10.2	iii
+TCGA-EE-A2GC	1926.0	male	white	Metastatic	stage iib	82.4	alive		67.5	ii
+TCGA-EE-A3AD	1959.0	male	white	Metastatic	stage iii	50.6	dead	28.8	3.7	iii
+TCGA-RP-A695		male	white	Metastatic	stage iv		alive			iv
+TCGA-DA-A3F2	1955.0	male	white	Metastatic	stage iiib	55.8	dead	33.9	33.7	iii
+TCGA-FS-A1Z0	1958.0	female	white	Metastatic	stage ia	32.3	dead	202.8		i
+TCGA-EE-A29X	1951.0	female	white	Metastatic	stage ib	58.5	dead	17.9		i
+TCGA-EE-A2M5	1950.0	male	white	Metastatic	stage i	49.1	dead	21.7		i
+TCGA-EE-A29S	1927.0	male	white	Metastatic	stage iia	79.6	dead	61.3	56.0	ii
+TCGA-FS-A1YX	1962.0	female	white	Metastatic	stage i	39.4	dead	48.6		i
+TCGA-EE-A3AG	1984.0	male	white	Metastatic	stage iii	25.1	dead	41.6	23.5	iii
+TCGA-GN-A8LN	1945.0	male	white	Primary solid Tumor	stage iic	68.1	alive		25.4	ii
+TCGA-D3-A1Q5	1936.0	male	white	Metastatic	i/ii nos	60.8	dead	112.6		i/ii nos
+TCGA-D3-A8GR	1945.0	female	white	Metastatic	stage 0	54.7	dead	129.7		0
+TCGA-EB-A5SH	1949.0	female	white	Metastatic	stage iii	60.0	alive		54.0	iii
+TCGA-XV-A9W5	1962.0	male	white	Primary solid Tumor	i/ii nos	51.3	alive		12.9	i/ii nos
+TCGA-BF-A5ER	1949.0	male	white	Primary solid Tumor	stage iic	63.5	alive		10.8	ii
+TCGA-BF-A1Q0	1930.0	male	white	Primary solid Tumor	stage iic	80.4	alive		27.3	ii
+TCGA-FW-A5DX	1941.0	male	white	Primary solid Tumor	stage iiic	71.3	alive		21.1	iii
+TCGA-W3-A828	1931.0	male	white	Metastatic	stage ii	66.4	dead	121.2		ii
+TCGA-D3-A5GS	1954.0	male	white	Metastatic	stage iv	58.5	alive		18.2	iv
+TCGA-BF-A1PU	1964.0	female	white	Primary solid Tumor	stage iic	46.6	alive		12.7	ii
+TCGA-D3-A1QA	1950.0	male	white	Metastatic	stage ib	55.4	alive		91.0	i
+TCGA-D9-A3Z4	1958.0	male	white	Primary solid Tumor	stage iiic	54.1	dead	17.1	3.9	iii
+TCGA-FR-A69P	1979.0	female	white	Metastatic	stage iiic	34.7	alive		15.7	iii
+TCGA-ER-A19E	1972.0	female	white	Metastatic	stage ib	36.4	dead	13.0		i
+TCGA-WE-A8ZT	1988.0	female	white	Metastatic	stage iv	25.7	alive		11.8	iv
+TCGA-EB-A4XL	1956.0	female	white	Primary solid Tumor	stage iic	56.1	alive		25.6	ii
+TCGA-EE-A184	1931.0	male	white	Metastatic	stage ib	72.4	dead	68.2		i
+TCGA-BF-AAP4	1952.0	male	white	Primary solid Tumor	stage iic	61.1	alive		11.0	ii
+TCGA-EE-A185	1953.0	female	white	Metastatic	stage iiic	55.4	dead	5.0		iii
+TCGA-ER-A194	1928.0	male	white	Primary solid Tumor	not reported	77.1	dead	44.5		not reported
+TCGA-D3-A3C8	1951.0	female	white	Metastatic	stage iiic	58.3	alive		46.3	iii
+TCGA-EE-A3JB	1932.0	female	white	Metastatic	stage iii	60.6	alive		201.9	iii
+TCGA-BF-A5EO	1947.0	male	white	Primary solid Tumor	stage iic	65.5	alive		23.1	ii
+TCGA-EB-A3XD	1958.0	female	white	Primary solid Tumor	stage iic	53.2	alive		38.2	ii
+TCGA-D3-A3C7	1952.0	female	white	Metastatic	stage iii	57.4	alive		47.0	iii
+TCGA-EB-A3XB	1948.0	male	white	Primary solid Tumor	stage ii	63.2	alive		26.2	ii
+TCGA-EB-A42Z	1963.0	male	asian	Primary solid Tumor	stage iiic	49.7	alive		14.5	iii
+TCGA-DA-A1I0	1945.0	male	white	Metastatic	stage iv	63.4	dead	20.4	19.5	iv
+TCGA-EB-A3XF	1955.0	male	white	Primary solid Tumor	stage iic	57.2	alive		9.1	ii
+TCGA-EE-A3J3	1944.0	male	white	Metastatic	stage ib	42.3	dead	172.3		i
+TCGA-D3-A8GO		female	white	Metastatic	i/ii nos		dead			i/ii nos
+TCGA-D3-A3ML	1933.0	male	white	Metastatic	stage iiia	70.2	dead	13.9		iii
+TCGA-BF-A3DJ	1975.0	female	white	Primary solid Tumor	stage iiib	36.5	alive		15.3	iii
+TCGA-BF-A5EP	1937.0	female	white	Primary solid Tumor	stage iiic	75.6	alive		11.0	iii
+TCGA-EE-A3J4	1919.0	male	white	Metastatic	stage ii	72.7	dead	127.3		ii
+TCGA-EB-A5VU	1956.0	male	asian	Primary solid Tumor	stage iiib	56.4	dead	10.6	0.4	iii
+TCGA-GF-A769	1971.0	male	white	Primary solid Tumor	stage iic	39.2	dead	35.2		ii
+TCGA-EE-A29C	1987.0	male	white	Metastatic	stage ib	20.6	dead	79.0	47.9	i
+TCGA-GN-A4U7	1955.0	female	white	Metastatic	stage iiic	56.0	dead	10.4	8.8	iii
+TCGA-FS-A1ZG	1947.0	female	white	Metastatic	stage iiic	60.9	dead	9.7		iii
+TCGA-EE-A29L	1931.0	male	white	Metastatic	stage iiic	78.9	dead	2.6		iii
+TCGA-D3-A51G		male	white	Metastatic	stage 0		alive			0
+TCGA-GN-A262	1954.0	female	white	Metastatic	not reported	47.2	alive		140.0	not reported
+TCGA-EB-A42Y	1939.0	female	asian	Primary solid Tumor	stage iic	73.1	dead	23.7	14.5	ii
+TCGA-LH-A9QB	1960.0	female	white	Metastatic	not reported	24.8	alive		369.0	not reported
+TCGA-GF-A3OT	1953.0	female	white	Metastatic	stage iiic	58.5	alive		9.9	iii
+TCGA-EE-A2GD	1926.0	female	white	Metastatic	stage iib	58.9	dead	340.3	314.7	ii
+TCGA-ER-A19B	1958.0	male	white	Metastatic	not reported	42.3	dead	98.5		not reported
+TCGA-D9-A3Z1	1945.0	male	white	Metastatic	stage iiic	66.2	dead	15.4	11.3	iii
+TCGA-DA-A1HY	1960.0	male	white	Metastatic	stage iii	42.0	alive		145.0	iii
+TCGA-HR-A5NC		female	not reported	Primary solid Tumor	not reported	90.0	alive		32.9	not reported
+TCGA-EE-A3AF	1961.0	female	white	Metastatic	stage iiic	48.5	dead	13.8		iii
+TCGA-EE-A3J7	1955.0	male	white	Metastatic	stage i	43.5	alive		64.1	i
+TCGA-EE-A2M7	1933.0	male	white	Metastatic	stage ii	66.7	dead	28.8		ii
+TCGA-W3-A825	1938.0	female	white	Metastatic	stage ii	60.5	dead	63.1		ii
+TCGA-ER-A2NB	1953.0	male	white	Primary solid Tumor	stage iiib	57.3	dead	28.2	16.0	iii
+TCGA-EE-A2MI	1943.0	male	white	Metastatic	stage iib	43.5	dead	204.8		ii
+TCGA-D3-A51E	1960.0	female	white	Metastatic	i/ii nos	39.2	alive		174.9	i/ii nos
+TCGA-EB-A44P	1954.0	female	white	Primary solid Tumor	stage iic	58.9	alive		24.4	ii
+TCGA-ER-A19L	1959.0	male	white	Metastatic	not reported	35.8	dead	131.6		not reported
+TCGA-FS-A1ZN	1959.0	male	white	Primary solid Tumor	stage iiia	43.5	dead	24.0		iii
+TCGA-EE-A29P	1933.0	female	white	Metastatic	stage iic	73.6	alive		56.4	ii
+TCGA-EE-A2GO	1936.0	female	white	Metastatic	stage ii	66.1	alive		126.9	ii
+TCGA-EE-A3JI	1951.0	male	white	Metastatic	stage i	48.8	dead	152.9	148.2	i
+TCGA-FS-A1YY	1932.0	female	white	Metastatic	stage iia	55.8	dead	228.7		ii
+TCGA-ER-A193	1944.0	male	white	Metastatic	stage iib	62.2	dead	31.4		ii
+TCGA-FS-A1ZM	1927.0	male	white	Metastatic	stage iii	74.5	alive		101.3	iii
+TCGA-DA-A95V	1926.0	female	white	Metastatic	stage iic	83.8	alive		72.1	ii
+TCGA-FS-A4F9	1931.0	male	white	Metastatic	stage iiic	80.3	alive		34.0	iii
+TCGA-GN-A4U8	1958.0	male	white	Metastatic	not reported	51.9	alive		48.9	not reported
+TCGA-D3-A3MO	1962.0	male	white	Metastatic	stage iii	47.1	dead	9.3		iii
+TCGA-ER-A19D	1958.0	female	white	Metastatic	stage ib	46.5	dead	12.6		i
+TCGA-FS-A1ZH	1932.0	female	white	Metastatic	stage iv	71.8	dead	32.8		iv
+TCGA-EE-A2MK	1981.0	female	white	Metastatic	stage iii	18.7	alive		180.5	iii
+TCGA-DA-A1IB	1941.0	female	white	Metastatic	stage iiic	69.0	alive	40.6	27.1	iii
+TCGA-W3-AA21	1968.0	male	white	Metastatic	stage i	26.1	dead	105.1		i
+TCGA-EB-A3Y6	1956.0	female	white	Primary solid Tumor	stage iic	56.4	alive		4.1	ii
+TCGA-BF-A5EQ	1949.0	male	white	Primary solid Tumor	stage iic	63.9	alive		10.6	ii
+TCGA-ER-A19S	1927.0	female	white	Metastatic	not reported	81.0	alive		49.5	not reported
+TCGA-D3-A8GE	1986.0	male	white	Metastatic	stage iv	26.1	alive		26.4	iv
+TCGA-RP-A694	1938.0	male	white	Metastatic	stage iv	71.3	alive		0.7	iv
+TCGA-FS-A1ZB	1945.0	male	white	Metastatic	stage ii	57.4	dead	48.9		ii
+TCGA-D9-A6EC	1952.0	male	white	Metastatic	stage iiia	56.1	alive		77.6	iii
+TCGA-FS-A1ZC	1927.0	male	white	Metastatic	i/ii nos	51.6	dead	357.6		i/ii nos
+TCGA-BF-AAP2	1951.0	male	white	Primary solid Tumor	stage iib	62.2	alive		13.3	ii
+TCGA-W3-AA1V	1931.0	male	white	Metastatic	stage ii	63.8	dead	42.1		ii
+TCGA-FS-A1Z3	1930.0	female	white	Metastatic	stage iv	72.4	dead	20.9		iv
+TCGA-ER-A2ND	1947.0	female	white	Metastatic	stage iiic	57.1	dead	23.4		iii
+TCGA-FW-A3I3	1952.0	female	white	Metastatic	stage iv	59.5	alive		17.5	iv
+TCGA-ER-A42H	1934.0	male	white	Primary solid Tumor	not reported	77.0	dead	14.0		not reported
+TCGA-BF-A3DN	1930.0	female	white	Primary solid Tumor	stage iiic	81.6	alive		23.6	iii
+TCGA-EE-A29R	1962.0	female	white	Metastatic	stage iiic	48.9	alive		14.5	iii
+TCGA-BF-AAOX	1930.0	male	white	Primary solid Tumor	stage iic	83.0	alive		14.6	ii
+TCGA-FS-A1ZP	1945.0	male	white	Metastatic	stage ii	52.5	dead	74.8		ii
+TCGA-ER-A197	1923.0	female	white	Metastatic	stage iiib	83.4	dead	13.9		iii
+TCGA-WE-A8K1	1936.0	male	white	Metastatic	stage iiic	74.4	alive		49.1	iii
+TCGA-EE-A2GP	1929.0	male	white	Metastatic	stage iiib	80.8	dead	13.9		iii
+TCGA-FS-A1YW	1935.0	male	white	Metastatic	stage ib	52.2	dead	217.0		i
+TCGA-ER-A2NH	1960.0	male	white	Metastatic	stage iiic	49.9	alive		41.6	iii
+TCGA-EE-A2M6	1936.0	male	white	Metastatic	stage i	61.8	alive		129.3	i
+TCGA-D9-A1X3	1947.0	male	white	Metastatic	not reported	63.4	alive		18.1	not reported
+TCGA-FS-A1ZA	1958.0	female	white	Metastatic	stage iiib	45.7	dead	27.7		iii
+TCGA-D3-A5GT	1969.0	male	white	Primary solid Tumor	stage iiic	43.6	alive		16.0	iii
+TCGA-GN-A264	1937.0	male	white	Metastatic	not reported	60.9	dead	118.0		not reported
+TCGA-D3-A2JO	1958.0	female	white	Metastatic	stage iiic	50.9	alive		66.1	iii
+TCGA-ER-A19K	1927.0	female	white	Primary solid Tumor	stage iic	79.2	dead	15.4		ii
+TCGA-GN-A266	1959.0	male	white	Metastatic	not reported	45.1	dead	10.1		not reported
+TCGA-D3-A2JG	1971.0	female	white	Metastatic	stage iiia	30.4	dead	113.6		iii
+TCGA-D3-A8GC	1952.0	male	white	Metastatic	stage iiic	48.4	dead	79.6		iii
+TCGA-DA-A1I1	1941.0	male	white	Metastatic	stage iii	55.8	alive		207.6	iii
+TCGA-FS-A1ZR	1959.0	male	white	Metastatic	stage ii	36.5	dead	11.4		ii
+TCGA-EB-A44O	1943.0	male	white	Primary solid Tumor	stage iib	69.9	alive		2.7	ii
+TCGA-ER-A19G	1939.0	female	white	Metastatic	not reported	48.8	alive		302.2	not reported
+TCGA-FS-A4FD	1965.0	male	white	Metastatic	stage iiic	39.5	dead	80.7	77.9	iii
+TCGA-DA-A3F8	1972.0	male	white	Metastatic	stage iiib	39.2	alive		43.4	iii
+TCGA-D3-A2J7	1936.0	male	white	Metastatic	stage iiic	67.6	dead	103.2		iii
+TCGA-D9-A1JX	1930.0	female	white	Metastatic	not reported	80.3	dead	7.1	6.4	not reported
+TCGA-RP-A693	1931.0	male	white	Metastatic	stage iv	77.7	alive		0.3	iv
+TCGA-FS-A1ZJ	1926.0	female	white	Metastatic	stage i	75.2	dead	47.4		i
+TCGA-3N-A9WD	1931.0	male	white	Metastatic	stage iiia	82.6	dead	13.0		iii
+TCGA-EB-A5KH	1956.0	male	asian	Metastatic	stage iii	55.9	dead	20.4	17.9	iii
+TCGA-EE-A2A2	1938.0	male	white	Metastatic	stage iiic	71.3	alive		59.7	iii
+TCGA-ER-A19P	1949.0	female	white	Metastatic	not reported	47.9	dead	162.2		not reported
+TCGA-D3-A8GS	1945.0	male	white	Metastatic	stage i	52.4	dead	117.2		i
+TCGA-EE-A17Y	1938.0	male	asian	Metastatic	stage iiib	69.2	dead	27.2		iii
+TCGA-XV-AB01	1959.0	female	white	Metastatic	stage ii	54.9	alive		13.3	ii
+TCGA-D3-A1Q7	1960.0	female	white	Metastatic	stage ib	42.5	alive		133.3	i
+TCGA-WE-A8ZY	1948.0	male	white	Metastatic	stage iia	62.1	dead	49.5	43.8	ii
+TCGA-D3-A2JF	1934.0	male	white	Metastatic	stage ia	74.6	alive		62.1	i
+TCGA-D9-A3Z3	1973.0	female	white	Metastatic	stage iiib	39.7	alive		22.3	iii
+TCGA-ER-A195	1959.0	male	white	Metastatic	not reported	46.4	dead	35.5		not reported
+TCGA-EB-A431	1978.0	male	white	Primary solid Tumor	stage iic	34.2	alive		18.7	ii
+TCGA-QB-A6FS	1964.0	male	white	Metastatic	stage iiic	49.6	alive		7.2	iii
+TCGA-YG-AA3O	1949.0	male	not reported	Metastatic	not reported	63.0	dead	38.0	36.1	not reported
+TCGA-EB-A5SF	1934.0	female	white	Primary solid Tumor	stage iic	78.8	dead	12.1	0.0	ii
+TCGA-D3-A8GM	1932.0	male	white	Metastatic	stage iib	73.3	dead	107.2	95.3	ii
+TCGA-W3-AA1O	1912.0	male	white	Metastatic	stage iii	85.8	dead	4.0		iii
+TCGA-GN-A26A	1943.0	female	white	Metastatic	stage iiia	63.8	dead	32.5		iii
+TCGA-GN-A26C	1929.0	male	white	Primary solid Tumor	stage iiic	77.6	dead	27.0		iii
+TCGA-YD-A9TB		female	white	Metastatic	not reported		alive			not reported
+TCGA-Z2-AA3V	1956.0	female	white	Metastatic	stage ia	57.3	alive		16.0	i
+TCGA-D3-A3C1		male	white	Metastatic	i/ii nos		alive			i/ii nos
+TCGA-FS-A1ZF	1929.0	female	white	Metastatic	stage iic	78.0	dead	15.5		ii
+TCGA-XV-A9W2	1932.0	male	white	Primary solid Tumor	stage i	81.7	alive		13.7	i
+TCGA-BF-AAP6	1958.0	male	white	Primary solid Tumor	stage iii	55.8	alive		10.7	iii
+TCGA-D9-A6EG	1956.0	male	white	Metastatic	stage iiia	56.3	dead	23.0		iii
+TCGA-WE-AAA4	1956.0	female	white	Metastatic	stage iiic	56.7	alive		25.0	iii
+TCGA-DA-A1IC	1924.0	male	white	Metastatic	stage iiib	81.7	dead	68.1	63.4	iii
+TCGA-EE-A17X	1952.0	male	white	Metastatic	stage ia	54.8	dead	29.8		i
+TCGA-XV-AAZY	1937.0	female	white	Primary solid Tumor	stage iiic	76.5	alive		13.3	iii
+TCGA-DA-A1I8	1942.0	female	white	Metastatic	stage iic	63.8	dead	53.9	45.0	ii
+TCGA-ER-A19F	1921.0	male	white	Metastatic	not reported	82.6	dead	26.4		not reported
+TCGA-D3-A51R	1948.0	male	white	Metastatic	stage iia	60.3	alive		63.8	ii
+TCGA-ER-A3EV	1946.0	male	white	Metastatic	stage iii	55.7	dead	47.0	47.0	iii
+TCGA-BF-A1PV	1936.0	female	white	Primary solid Tumor	stage iic	74.3	alive		0.5	ii
+TCGA-D3-A3MU	1957.0	male	white	Metastatic	stage iiia	53.2	alive		39.8	iii
+TCGA-YG-AA3P	1950.0	female	not reported	Metastatic	stage iib	63.6	alive		14.4	ii
+TCGA-D3-A2JC	1953.0	female	white	Metastatic	stage iii	53.8	alive		86.8	iii
+TCGA-EE-A3JA	1962.0	male	white	Metastatic	stage ib	45.0	dead	53.2		i
+TCGA-D3-A5GN	1986.0	female	white	Metastatic	stage i	15.6	alive		135.8	i
+TCGA-XV-A9VZ	1923.0	female	white	Primary solid Tumor	stage ii	90.0	alive		0.4	ii
+TCGA-GN-A4U5	1950.0	female	white	Primary solid Tumor	stage ib	61.6	alive		38.0	i
+TCGA-WE-A8JZ	1942.0	male	not reported	Metastatic	stage iiib	70.9	alive		24.0	iii
+TCGA-ER-A19T	1955.0	male	white	Primary solid Tumor	stage iv	51.3	dead	8.9		iv
+TCGA-D3-A51H	1949.0	male	white	Metastatic	stage iiic	60.6	alive		56.4	iii
+TCGA-EE-A2GE	1955.0	male	white	Metastatic	stage i	44.8	alive		173.9	i
+TCGA-EB-A3XC	1938.0	male	white	Primary solid Tumor	stage iic	74.3	alive		21.4	ii
+TCGA-EE-A3AH	1968.0	male	white	Metastatic	stage ii	30.1	dead	138.9		ii
+TCGA-EB-A430	1929.0	male	white	Primary solid Tumor	stage iic	83.1	alive		-0.1	ii
+TCGA-EE-A2MR	1941.0	male	white	Metastatic	stage i	61.7	alive		134.5	i
+TCGA-EE-A3AA	1954.0	male	white	Metastatic	stage iii	47.1	alive		124.4	iii
+TCGA-EE-A2MN	1942.0	male	white	Metastatic	stage i	58.0	dead	47.6		i
+TCGA-ER-A19H	1955.0	male	white	Metastatic	not reported	40.9	dead	152.4		not reported
+TCGA-D3-A1Q3	1937.0	male	white	Metastatic	stage iic	64.6	dead	16.7		ii
+TCGA-FS-A4FC	1932.0	female	white	Metastatic	stage iia	75.2	dead	54.4	49.5	ii
+TCGA-EE-A29Q	1937.0	female	white	Metastatic	stage iib	70.8	dead	66.8	37.4	ii
+TCGA-DA-A3F5	1949.0	male	white	Metastatic	stage i	45.7	dead	226.1	224.5	i
+TCGA-EE-A29E	1954.0	male	white	Metastatic	stage iiib	54.7	alive		63.8	iii
+TCGA-FR-A729	1958.0	female	white	Metastatic	stage i	38.4	alive		220.9	i
+TCGA-FS-A4F2	1957.0	female	white	Metastatic	stage iic	46.4	dead	50.2		ii
+TCGA-FR-A8YE	1965.0	male	white	Metastatic	stage ia	41.5	alive		104.5	i
+TCGA-Z2-AA3S	1948.0	male	white	Metastatic	stage ia	58.4	alive		97.0	i
+TCGA-ER-A196	1943.0	female	white	Primary solid Tumor	stage iic	64.4	alive		58.7	ii
+TCGA-D3-A5GO	1940.0	male	white	Metastatic	stage ii	61.0	alive		138.0	ii
+TCGA-EB-A6QY	1942.0	male	white	Primary solid Tumor	stage iic	71.8	alive		12.6	ii
+TCGA-WE-A8ZM	1936.0	male	white	Metastatic	stage iiib	70.8	alive		101.4	iii
+TCGA-D3-A1Q1	1925.0	female	white	Metastatic	stage iiic	80.0	dead	16.6		iii
+TCGA-ER-A199	1921.0	female	white	Metastatic	stage iiic	86.7	dead	9.2		iii
+TCGA-EE-A29D	1921.0	male	white	Metastatic	stage iiic	87.0	dead	14.0		iii
+TCGA-D3-A51K	1960.0	male	white	Metastatic	stage iiib	51.9	alive		33.0	iii
+TCGA-GN-A4U9	1941.0	male	white	Metastatic	stage iiic	71.5	dead	22.1	12.6	iii
+TCGA-D3-A2JH	1942.0	male	white	Metastatic	stage ib	68.1	alive		42.1	i
+TCGA-FS-A4F0	1936.0	female	white	Metastatic	stage iib	67.7	alive		77.9	ii
+TCGA-W3-AA1Q	1937.0	male	white	Metastatic	stage iii	57.6	dead	69.1		iii
+TCGA-ER-A19M	1970.0	male	white	Metastatic	stage ib	36.4	dead	61.1		i
+TCGA-D3-A1Q6	1948.0	male	white	Metastatic	stage iii	55.4	dead	71.8		iii
+TCGA-EE-A2GS	1978.0	female	white	Metastatic	stage ib	28.5	dead	81.2	55.6	i
+TCGA-D9-A6E9	1938.0	female	white	Metastatic	stage iiia	75.4	alive		9.9	iii
+TCGA-FS-A1ZQ	1966.0	male	white	Metastatic	i/ii nos	31.8	dead	133.6		i/ii nos
+TCGA-EE-A2GB	1956.0	male	white	Metastatic	stage iiib	51.7	alive		59.3	iii
+TCGA-EE-A20C	1938.0	male	white	Metastatic	stage 0	59.3	dead	151.3		0
+TCGA-FR-A7UA	1946.0	female	white	Metastatic	stage ib	65.8	alive		38.3	i
+TCGA-EB-A44Q	1961.0	female	asian	Metastatic	stage iiic	51.8	alive		13.9	iii
+TCGA-ER-A19N	1961.0	male	white	Metastatic	not reported	47.8	dead	44.1		not reported
+TCGA-EE-A29B	1937.0	male	white	Metastatic	stage iib	67.4	dead	85.1	80.7	ii
+TCGA-D3-A3CB	1960.0	male	white	Metastatic	i/ii nos	39.9	alive		166.6	i/ii nos
+TCGA-DA-A1I4	1955.0	male	white	Metastatic	stage iiic	51.9	dead	36.0	27.1	iii
+TCGA-EE-A2ME	1944.0	male	white	Metastatic	stage i	51.6	dead	103.3		i
+TCGA-D3-A3C6	1952.0	female	white	Metastatic	stage ib	54.4	dead	58.1		i
+TCGA-D9-A4Z5	1944.0	male	white	Primary solid Tumor	stage iib	68.4	alive		7.2	ii
+TCGA-D3-A51N	1956.0	female	white	Metastatic	stage iv	56.3	alive		22.6	iv
+TCGA-EE-A2GR	1931.0	male	white	Metastatic	stage ii	78.1	dead	42.8	14.3	ii
+TCGA-EB-A5UL	1941.0	male	white	Metastatic	stage iii	71.3	alive		29.3	iii
+TCGA-EE-A2MM	1930.0	female	white	Metastatic	stage i	63.3	dead	168.0		i
+TCGA-XV-AAZV	1957.0	female	white	Primary solid Tumor	stage ii	56.2	alive		13.6	ii
+TCGA-BF-A1PZ	1939.0	female	white	Primary solid Tumor	stage iib	71.8	alive		28.1	ii
+TCGA-EB-A550	1937.0	female	white	Primary solid Tumor	stage iic	75.4	dead	8.7	0.2	ii
+TCGA-FS-A1ZU	1932.0	female	white	Metastatic	stage iic	70.8	dead	26.6		ii
+TCGA-EB-A299	1948.0	male	white	Primary solid Tumor	stage iia	63.9	alive		12.4	ii
+TCGA-DA-A1I7	1945.0	male	white	Metastatic	stage iiib	62.8	alive		73.9	iii
+TCGA-D3-A2J6	1937.0	male	white	Metastatic	stage iib	65.9	dead	43.5		ii
+TCGA-XV-AAZW	1951.0	female	white	Primary solid Tumor	stage ii	62.4	dead	12.9	0.6	ii
+TCGA-GN-A263	1980.0	male	white	Primary solid Tumor	stage iv	24.5	dead	15.4		iv
+TCGA-WE-AA9Y	1976.0	male	white	Metastatic	stage iiic	37.9	alive		12.2	iii
+TCGA-FR-A726	1923.0	male	white	Primary solid Tumor	stage iic	90.0	dead	10.0	8.7	ii
+TCGA-EB-A24C	1955.0	male	white	Primary solid Tumor	not reported	56.2	alive		20.8	not reported
+TCGA-FR-A44A	1970.0	female	white	Metastatic	stage ii	29.3	alive		174.3	ii
+TCGA-YD-A89C	1970.0	female	white	Metastatic	stage ia	43.3	alive		6.9	i
+TCGA-FS-A1ZW	1940.0	male	white	Metastatic	stage iiib	65.9	alive		49.5	iii
+TCGA-FS-A1ZT	1950.0	male	white	Metastatic	stage iii	55.5	alive		53.2	iii
+TCGA-DA-A95X	1947.0	male	white	Metastatic	stage ib	62.2	alive		61.8	i
+TCGA-FR-A8YC	1933.0	male	white	Metastatic	stage iib	78.5	dead	34.8		ii
+TCGA-BF-A1PX	1954.0	male	white	Primary solid Tumor	stage iiib	56.5	dead	9.3		iii
+TCGA-ER-A19W	1946.0	female	white	Metastatic	not reported	48.8	dead	148.3		not reported
+TCGA-EB-A1NK	1962.0	male	white	Primary solid Tumor	stage iic	48.1	alive		34.2	ii
+TCGA-GF-A6C9	1934.0	male	white	Metastatic	stage iiib	78.8	alive		15.8	iii
+TCGA-D3-A8GQ	1938.0	male	white	Metastatic	stage ii	66.7	dead	29.1		ii
+TCGA-ER-A42K	1972.0	female	white	Metastatic	stage iiic	40.0	dead	13.0	6.8	iii
+TCGA-EE-A29A	1935.0	male	white	Metastatic	stage iiia	68.7	dead	63.4		iii
+TCGA-DA-A3F3	1958.0	male	white	Metastatic	stage iiib	52.9	dead	10.5	5.0	iii
+TCGA-QB-AA9O	1939.0	male	white	Metastatic	stage iiic	73.9	dead	18.1		iii
+TCGA-EE-A20B	1936.0	female	white	Metastatic	stage ii	66.9	alive		133.9	ii
+TCGA-D3-A8GK	1955.0	male	white	Metastatic	stage iia	45.4	alive		170.3	ii
+TCGA-EB-A6L9	1957.0	male	asian	Metastatic	stage iiic	55.2	alive		36.5	iii
+TCGA-D3-A2JL	1956.0	female	white	Metastatic	i/ii nos	43.0	alive		171.7	i/ii nos
+TCGA-D3-A8GP	1925.0	male	white	Metastatic	stage iii	77.3	alive		152.8	iii
+TCGA-OD-A75X	1940.0	male	white	Metastatic	not reported	49.0	dead	298.1	294.9	not reported
+TCGA-EB-A85J	1947.0	female	white	Primary solid Tumor	stage iib	66.4	alive		11.8	ii
+TCGA-EB-A5FP	1947.0	female	white	Primary solid Tumor	stage iv	65.3	dead	14.9	0.2	iv
+TCGA-DA-A1IA	1973.0	female	white	Metastatic	stage iiib	32.2	dead	66.0	62.1	iii
+TCGA-WE-A8ZO	1936.0	female	not reported	Metastatic	stage iiib	73.8	alive		70.6	iii
+TCGA-WE-A8K5	1944.0	male	white	Metastatic	stage iv	65.3	dead	61.2	54.4	iv
+TCGA-FS-A1ZS	1944.0	male	white	Metastatic	stage i	54.2	alive		148.9	i
+TCGA-FR-A2OS	1959.0	female	white	Primary solid Tumor	stage iic	49.6	dead	12.1		ii
+TCGA-BF-AAP7	1937.0	female	white	Primary solid Tumor	stage iic	76.9	alive		10.5	ii
+TCGA-EE-A2GK	1961.0	female	white	Metastatic	stage i	46.2	alive		54.8	i
+TCGA-ER-A3ES	1962.0	male	white	Metastatic	not reported	25.6	dead	247.2		not reported
+TCGA-EE-A3AB	1971.0	male	white	Metastatic	stage iii	30.3	alive		122.8	iii
+TCGA-FW-A3TU	1935.0	female	white	Metastatic	not reported	72.8	dead	55.6	47.6	not reported
+TCGA-D3-A51T	1952.0	female	white	Metastatic	stage iiic	59.7	alive		26.9	iii
+TCGA-EE-A29G	1950.0	male	white	Metastatic	stage iiia	53.8	dead	72.1		iii
+TCGA-D3-A8GD	1949.0	female	white	Metastatic	stage iiic	63.3	alive		23.6	iii
+TCGA-GN-A8LL	1944.0	female	white	Metastatic	stage iic	68.4	dead	21.4		ii
+TCGA-EE-A3J5	1929.0	male	white	Metastatic	stage iii	71.8	dead	37.0		iii
+TCGA-EE-A2A6	1963.0	male	white	Metastatic	stage ia	43.7	alive		86.2	i
+TCGA-HR-A2OG		female	not reported	Metastatic	not reported	59.6	alive		0.2	not reported
+TCGA-D3-A8GN	1973.0	female	white	Metastatic	i/ii nos	27.9	alive		161.1	i/ii nos
+TCGA-EE-A20F	1949.0	male	white	Metastatic	stage i	53.0	alive		91.6	i
+TCGA-DA-A95Z	1926.0	male	white	Metastatic	stage iv	87.2	alive		13.0	iv
+TCGA-WE-AAA0	1964.0	male	white	Metastatic	stage ia	47.3	alive		40.4	i
+TCGA-WE-A8ZQ	1961.0	male	not reported	Metastatic	stage iia	48.8	alive		63.3	ii
+TCGA-D3-A2JK	1981.0	male	white	Metastatic	stage iiic	24.5	dead	12.1		iii
+TCGA-ER-A198	1958.0	male	white	Metastatic	not reported	45.3	dead	50.8		not reported
+TCGA-FR-A3YN	1961.0	male	white	Metastatic	stage ib	44.6	alive		93.0	i
+TCGA-EB-A4IQ	1970.0	female	asian	Primary solid Tumor	stage iiib	42.5	dead	20.9	13.6	iii
+TCGA-GN-A8LK	1939.0	male	white	Metastatic	stage ib	70.4	dead	50.1		i
+TCGA-D9-A148	1959.0	male	white	Metastatic	not reported	40.5	alive		151.6	not reported
+TCGA-DA-A1HW	1972.0	female	white	Metastatic	stage iiib	37.2	alive	36.1	27.0	iii
+TCGA-EE-A2GU	1940.0	female	white	Metastatic	stage ia	65.1	alive		94.9	i
+TCGA-BF-A3DM	1948.0	male	white	Primary solid Tumor	stage iia	63.2	alive		19.8	ii
+TCGA-W3-AA1R	1924.0	male	white	Metastatic	stage ii	71.6	dead	111.2		ii
+TCGA-D3-A3MR	1962.0	male	white	Metastatic	stage iii	43.0	alive		103.7	iii
+TCGA-EE-A29M	1974.0	female	white	Metastatic	stage ib	33.8	alive		56.9	i
+TCGA-D3-A51J	1982.0	male	white	Metastatic	stage iii	19.7	alive		145.2	iii
+TCGA-D3-A2JE	1934.0	female	white	Metastatic	stage iiic	75.6	dead	27.7		iii
+TCGA-FS-A1ZD	1938.0	male	white	Metastatic	stage iia	63.9	dead	53.6		ii
+TCGA-EE-A2GI	1969.0	male	white	Metastatic	stage ia	39.7	alive		48.8	i
+TCGA-GN-A4U4	1938.0	male	white	Metastatic	stage iia	73.3	alive		39.4	ii
+TCGA-FS-A1ZY	1935.0	male	white	Metastatic	stage iib	71.7	dead	27.1		ii
+TCGA-GN-A265	1951.0	male	white	Metastatic	not reported	54.0	alive		97.0	not reported
+TCGA-ER-A2NC	1956.0	male	white	Metastatic	stage ib	50.9	dead	43.8		i
+TCGA-D3-A51F	1958.0	male	white	Metastatic	stage iiic	51.4	alive		55.8	iii
+TCGA-FR-A3R1	1942.0	male	white	Primary solid Tumor	stage iic	69.2	alive		22.5	ii
+TCGA-D3-A8GL	1953.0	male	white	Metastatic	stage iiib	43.7	dead	89.2		iii
+TCGA-ER-A1A1	1947.0	male	white	Metastatic	stage iiic	58.1	alive		105.1	iii
+TCGA-EE-A2MT	1962.0	male	white	Metastatic	stage ib	45.9	alive		71.2	i
+TCGA-EE-A20I	1929.0	male	white	Metastatic	stage iv	79.1	dead	13.6		iv
+TCGA-BF-A3DL	1927.0	female	white	Primary solid Tumor	stage iiib	84.3	alive		25.3	iii
+TCGA-ER-A3ET	1941.0	female	white	Metastatic	stage iiia	64.8	dead	93.1	80.4	iii
+TCGA-EE-A2GJ	1921.0	male	white	Metastatic	stage ia	83.8	dead	107.4	89.4	i
+TCGA-WE-A8ZX	1967.0	male	white	Metastatic	stage iiib	45.8	alive		35.8	iii
+TCGA-Z2-A8RT	1970.0	female	white	Metastatic	stage iib	42.0	alive		27.6	ii
+TCGA-GF-A2C7	1963.0	male	white	Primary solid Tumor	stage iic	48.0	alive		0.7	ii
+TCGA-D3-A2JP	1971.0	male	white	Metastatic	stage iiic	37.1	alive		59.6	iii
+TCGA-DA-A960	1939.0	male	white	Primary solid Tumor	stage iib	73.1	alive		26.4	ii
+TCGA-EE-A2GN	1936.0	male	white	Metastatic	stage iia	67.6	dead	102.2	91.0	ii
+TCGA-EB-A5VV	1938.0	female	white	Metastatic	stage iiib	74.9	alive		7.0	iii
+TCGA-D3-A2J8	1955.0	male	white	Metastatic	stage ib	48.3	dead	65.5		i
+TCGA-BF-AAP1	1927.0	male	white	Primary solid Tumor	stage iic	86.7	alive		13.5	ii
+TCGA-ER-A2NF	1957.0	male	white	Metastatic	stage iiib	53.4	dead	28.8	16.4	iii
+TCGA-D9-A1JW	1928.0	male	white	Metastatic	not reported	82.5	alive		3.7	not reported
+TCGA-EE-A2MF	1940.0	female	white	Metastatic	stage i	39.2	dead	268.9		i
+TCGA-D3-A1Q8	1971.0	male	white	Metastatic	stage iv	33.8	dead	28.1		iv
+TCGA-D3-A3C3		female	white	Metastatic	i/ii nos		alive			i/ii nos
+TCGA-ER-A19T	1955.0	male	white	Metastatic	stage iv	51.3	dead	8.9		iv
+TCGA-FR-A7U9	1950.0	female	white	Metastatic	stage iiic	63.6	alive		18.8	iii
+TCGA-EE-A2GH	1962.0	male	white	Metastatic	stage i	34.8	alive		220.4	i
+TCGA-HR-A2OH		female	not reported	Metastatic	stage iiib	46.3	dead	65.9		iii
+TCGA-WE-A8ZN	1952.0	male	not reported	Metastatic	stage iib	57.3	alive		59.0	ii
+TCGA-BF-AAP0	1973.0	female	white	Metastatic	stage iv	40.4	alive		14.9	iv
+TCGA-W3-AA1W	1932.0	male	white	Metastatic	stage ii	64.9	alive		219.3	ii
+TCGA-EB-A24D	1939.0	male	white	Primary solid Tumor	stage iiib	72.4	alive		21.2	iii
+TCGA-EE-A3JH	1949.0	male	white	Metastatic	stage ib	54.4	alive		134.4	i
+TCGA-D3-A8GJ	1976.0	male	white	Metastatic	stage ii	18.3	alive		241.5	ii
+TCGA-D9-A4Z6	1958.0	male	white	Metastatic	stage iiic	55.0	dead	18.5	11.1	iii
+TCGA-D3-A3CE	1927.0	female	white	Metastatic	stage iii	74.9	dead	60.3		iii
+TCGA-D3-A5GU	1966.0	male	white	Metastatic	stage ib	36.4	alive		125.3	i
+TCGA-EE-A2MP	1957.0	female	white	Metastatic	stage i	34.2	alive		248.8	i
+TCGA-EE-A3AC	1962.0	male	white	Metastatic	stage iii	47.4	alive		64.1	iii
+TCGA-ER-A2NE	1968.0	male	white	Metastatic	stage 0	39.0	dead	20.2		0
+TCGA-D3-A1Q4	1950.0	female	white	Metastatic	stage iiic	53.9	alive		112.1	iii
+TCGA-FS-A1Z7	1986.0	male	white	Metastatic	stage iiic	20.0	dead	7.8		iii
+TCGA-IH-A3EA	1947.0	male	white	Primary solid Tumor	stage iic	61.8	alive		17.2	ii
+TCGA-EB-A6R0	1954.0	female	white	Primary solid Tumor	stage iic	58.5	dead	20.0	15.4	ii
+TCGA-EB-A4P0	1930.0	male	white	Primary solid Tumor	stage iic	82.8	dead	10.7	-0.1	ii
+TCGA-FS-A4F5	1928.0	female	white	Metastatic	stage ib	77.8	dead	28.8		i
+TCGA-DA-A95W	1959.0	male	white	Metastatic	stage iiib	52.3	alive		25.2	iii
+TCGA-EE-A2MD	1946.0	male	white	Metastatic	stage ii	52.9	dead	47.3		ii
+TCGA-EE-A29H	1949.0	female	white	Metastatic	stage ia	59.0	alive		64.7	i
+TCGA-GN-A26D	1936.0	female	white	Metastatic	stage iic	72.5	dead	48.0	39.6	ii
+TCGA-D3-A8GI	1940.0	male	white	Metastatic	stage ia	68.6	dead	58.6		i
+TCGA-D3-A2JD	1949.0	male	white	Metastatic	stage iiic	58.7	dead	11.9		iii
+TCGA-EB-A5UN	1960.0	male	white	Metastatic	stage iic	49.9	alive		58.9	ii
+TCGA-EB-A3HV	1974.0	male	white	Primary solid Tumor	stage iic	37.5	alive		1.3	ii

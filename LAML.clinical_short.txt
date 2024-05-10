@@ -1,0 +1,152 @@
+patient	year_of_birth	gender	race	definition	tumor_stage	age_at_diagnosis	vital_status	months_to_death	months_to_last_follow_up	tumor_stage_2
+TCGA-AB-2966	1950	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	57.2	dead	28.1		not reported
+TCGA-AB-2950	1974	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	34.8	alive		10.1	not reported
+TCGA-AB-2871	1958	male	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	51.2	alive		5.0	not reported
+TCGA-AB-2976	1954	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	53.6	dead	30.1		not reported
+TCGA-AB-2939	1936	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	72.6	alive		15.0	not reported
+TCGA-AB-2899	1930	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	76.1	dead	22.1		not reported
+TCGA-AB-2877	1948	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	60.1	alive		21.0	not reported
+TCGA-AB-2839	1952	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	51.9	dead	16.0		not reported
+TCGA-AB-2928	1967	female	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	43.5	dead		1.9	not reported
+TCGA-AB-2937	1971	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	36.0	dead	7.1		not reported
+TCGA-AB-2929	1936	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	71.3	dead	4.0		not reported
+TCGA-AB-2999	1942	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	62.9	alive		57.1	not reported
+TCGA-AB-2973	1939	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	68.0	dead	20.0		not reported
+TCGA-AB-2823	1945	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	61.7	dead	0.0		not reported
+TCGA-AB-2919	1955	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	54.0	alive		2.0	not reported
+TCGA-AB-2930	1946	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	63.0	dead			not reported
+TCGA-AB-3008	1983	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	22.3	dead	27.0		not reported
+TCGA-AB-2890	1940	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	69.1	dead	0.0		not reported
+TCGA-AB-3001	1974	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	31.3	alive		52.0	not reported
+TCGA-AB-2820	1927	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	76.6	dead	0.0		not reported
+TCGA-AB-2980	1958	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	50.7	alive		23.0	not reported
+TCGA-AB-2995	1942	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	63.4	alive		51.0	not reported
+TCGA-AB-2849	1965	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	39.8	alive		73.0	not reported
+TCGA-AB-2908	1927	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	81.5	dead	1.0		not reported
+TCGA-AB-2845	1965	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	37.6	dead	10.0		not reported
+TCGA-AB-2998	1940	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	68.0	dead	1.0		not reported
+TCGA-AB-2853	1952	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	51.3	dead	2.9		not reported
+TCGA-AB-2948	1940	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	67.7	dead	19.1		not reported
+TCGA-AB-2992	1971	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	32.4	dead	56.1		not reported
+TCGA-AB-2940	1971	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	35.3	dead			not reported
+TCGA-AB-2870	1931	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	76.1	dead	5.0		not reported
+TCGA-AB-2925	1950	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	57.1	dead	8.0		not reported
+TCGA-AB-2858	1929	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	75.4	dead	19.0		not reported
+TCGA-AB-2895	1968	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	41.9	dead	5.0		not reported
+TCGA-AB-2881	1961	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	48.8	alive		12.9	not reported
+TCGA-AB-2867	1936	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	66.4	dead	6.1		not reported
+TCGA-AB-2828	1948	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	55.8	alive		75.1	not reported
+TCGA-AB-2936	1949	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	61.0	alive		1.9	not reported
+TCGA-AB-2883	1948	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	60.4	alive		24.0	not reported
+TCGA-AB-2965	1946	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	60.2	dead	11.0		not reported
+TCGA-AB-2994	1980	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	25.8	alive		59.1	not reported
+TCGA-AB-2865	1930	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	75.3	dead	2.0		not reported
+TCGA-AB-2875	1966	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	43.8	alive		7.0	not reported
+TCGA-AB-2859	1965	male	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	40.2	dead	10.0		not reported
+TCGA-AB-2956	1946	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	61.7	dead	6.0		not reported
+TCGA-AB-2942	1941	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	67.8	alive		21.1	not reported
+TCGA-AB-2889	1954	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	55.2	alive		10.0	not reported
+TCGA-AB-2917	1965	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	41.4	alive		40.0	not reported
+TCGA-AB-2996	1931	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	74.9	alive		52.0	not reported
+TCGA-AB-2830	1941	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	64.1	dead	9.0		not reported
+TCGA-AB-2970	1973	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	34.4	dead	10.0		not reported
+TCGA-AB-2856	1943	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	63.8	dead	4.9		not reported
+TCGA-AB-2818	1940	female	asian	Primary Blood Derived Cancer - Peripheral Blood	not reported	62.2	dead	10.0		not reported
+TCGA-AB-2878	1959	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	47.9	dead	12.0		not reported
+TCGA-AB-2979	1978	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	30.8	alive		22.1	not reported
+TCGA-AB-2924	1950	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	59.8	alive		3.0	not reported
+TCGA-AB-2810	1926	female	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	76.6	dead	1.0		not reported
+TCGA-AB-2934	1945	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	65.6	alive		0.9	not reported
+TCGA-AB-2815	1955	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	49.2	dead	27.0		not reported
+TCGA-AB-2912	1944	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	63.9	dead	9.0		not reported
+TCGA-AB-2949	1950	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	58.4	alive		23.0	not reported
+TCGA-AB-2975	1953	male	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	54.9	dead			not reported
+TCGA-AB-2882	1933	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	73.5	dead	12.0		not reported
+TCGA-AB-2913	1945	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	61.7	alive		40.0	not reported
+TCGA-AB-2817	1941	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	64.0	dead	9.0		not reported
+TCGA-AB-2894	1957	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	50.2	dead	6.0		not reported
+TCGA-AB-2898	1940	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	69.3	alive		12.9	not reported
+TCGA-AB-2987	1933	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	75.7	dead	6.1		not reported
+TCGA-AB-2986	1977	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	31.7	dead	7.0		not reported
+TCGA-AB-3009	1982	male	not reported	Primary Blood Derived Cancer - Peripheral Blood	not reported	23.8	dead	19.0		not reported
+TCGA-AB-2841	1953	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	51.5	dead	46.1		not reported
+TCGA-AB-2885	1938	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	71.7	dead	7.0		not reported
+TCGA-AB-2943	1940	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	70.0	dead			not reported
+TCGA-AB-2918	1962	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	47.1	dead			not reported
+TCGA-AB-2812	1979	female	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	25.3	dead	12.0		not reported
+TCGA-AB-2931	1932	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	75.2	dead	0.0		not reported
+TCGA-AB-2869	1945	female	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	64.8	alive		8.0	not reported
+TCGA-AB-2941	1933	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	73.9	dead	0.0		not reported
+TCGA-AB-2891	1967	male	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	42.2	dead			not reported
+TCGA-AB-2955	1951	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	56.1	dead	16.1		not reported
+TCGA-AB-2821	1941	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	64.4	dead	27.0		not reported
+TCGA-AB-2814	1964	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	39.5	dead	26.1		not reported
+TCGA-AB-2886	1983	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	26.0	alive		6.0	not reported
+TCGA-AB-2901	1982	male	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	27.5	alive		1.9	not reported
+TCGA-AB-2825	1975	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	31.2	dead	7.0		not reported
+TCGA-AB-3007	1970	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	35.7	alive		52.0	not reported
+TCGA-AB-2927	1921	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	88.5	dead	3.0		not reported
+TCGA-AB-2822	1938	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	65.8	dead	32.0		not reported
+TCGA-AB-2959	1936	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	71.5	dead	16.1		not reported
+TCGA-AB-2888	1952	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	57.2	alive		11.0	not reported
+TCGA-AB-2944	1962	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	48.2	dead			not reported
+TCGA-AB-2811	1921	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	81.5	dead	8.0		not reported
+TCGA-AB-2896	1986	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	21.6	dead	7.0		not reported
+TCGA-AB-2835	1957	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	48.3	alive		55.0	not reported
+TCGA-AB-2981	1973	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	35.7	alive		16.0	not reported
+TCGA-AB-2946	1969	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	41.5	alive			not reported
+TCGA-AB-2892	1964	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	42.7	alive		31.0	not reported
+TCGA-AB-2984	1968	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	38.7	alive		38.1	not reported
+TCGA-AB-2874	1950	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	59.6	alive		13.0	not reported
+TCGA-AB-2851	1939	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	66.6	dead	8.0		not reported
+TCGA-AB-2880	1985	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	24.2	dead		13.9	not reported
+TCGA-AB-2847	1951	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	53.3	dead	20.0		not reported
+TCGA-AB-2952	1947	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	60.7	dead	1.0		not reported
+TCGA-AB-2914	1985	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	22.7	alive		26.1	not reported
+TCGA-AB-2826	1938	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	64.3	dead	24.0		not reported
+TCGA-AB-2990	1957	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	51.9	alive		15.0	not reported
+TCGA-AB-2916	1959	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	48.9	alive		29.0	not reported
+TCGA-AB-2872	1966	male	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	42.3	alive		21.0	not reported
+TCGA-AB-2910	1947	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	61.1	dead	0.0		not reported
+TCGA-AB-2933	1949	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	58.6	dead	4.0		not reported
+TCGA-AB-2893	1961	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	45.5	dead	7.0		not reported
+TCGA-AB-2876	1961	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	45.6	alive		40.1	not reported
+TCGA-AB-3012	1951	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	53.5	alive		62.1	not reported
+TCGA-AB-2963	1946	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	56.1	dead	54.0		not reported
+TCGA-AB-2834	1971	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	33.6	dead	8.1		not reported
+TCGA-AB-2971	1931	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	76.1	dead	26.1		not reported
+TCGA-AB-2983	1961	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	45.4	dead	11.0		not reported
+TCGA-AB-2843	1927	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	77.4	dead	7.1		not reported
+TCGA-AB-2866	1938	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	67.6	dead	5.0		not reported
+TCGA-AB-2897	1959	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	50.4	alive		8.0	not reported
+TCGA-AB-2991	1964	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	40.8	alive		60.1	not reported
+TCGA-AB-2806	1956	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	46.2	dead	31.1		not reported
+TCGA-AB-2842	1939	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	65.0	dead	0.0		not reported
+TCGA-AB-2988	1941	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	67.7	dead	1.0		not reported
+TCGA-AB-2808	1979	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	23.3	alive		94.1	not reported
+TCGA-AB-2846	1948	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	57.2	dead	46.1		not reported
+TCGA-AB-2805	1925	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	77.0	dead	19.0		not reported
+TCGA-AB-2863	1940	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	63.3	dead	1.0		not reported
+TCGA-AB-3002	1937	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	68.9	dead	47.1		not reported
+TCGA-AB-2861	1929	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	76.5	dead	0.0		not reported
+TCGA-AB-2844	1942	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	63.7	dead	4.0		not reported
+TCGA-AB-2915	1936	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	73.8	dead	0.0		not reported
+TCGA-AB-2935	1941	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	66.7	dead	2.0		not reported
+TCGA-AB-2982	1978	female	not reported	Primary Blood Derived Cancer - Peripheral Blood	not reported	29.6	alive		4.9	not reported
+TCGA-AB-2977	1937	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	71.3	dead	1.0		not reported
+TCGA-AB-2884	1964	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	44.6	dead	24.0		not reported
+TCGA-AB-2938	1929	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	76.3	dead	10.0		not reported
+TCGA-AB-2862	1972	female	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	33.6	alive		47.0	not reported
+TCGA-AB-2932	1946	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	62.3	alive		0.0	not reported
+TCGA-AB-2911	1955	female	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	51.2	alive		39.0	not reported
+TCGA-AB-2920	1963	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	44.0	dead	12.0		not reported
+TCGA-AB-2921	1953	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	56.0	dead			not reported
+TCGA-AB-2813	1927	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	78.3	dead	1.0		not reported
+TCGA-AB-2840	1929	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	74.6	dead	0.9		not reported
+TCGA-AB-2836	1970	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	35.3	dead	17.0		not reported
+TCGA-AB-2873	1958	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	51.2	alive		9.0	not reported
+TCGA-AB-2819	1951	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	52.2	alive		82.1	not reported
+TCGA-AB-2857	1951	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	54.5	dead	10.1		not reported
+TCGA-AB-3011	1984	female	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	21.7	alive		62.0	not reported
+TCGA-AB-2900	1939	male	black or african american	Primary Blood Derived Cancer - Peripheral Blood	not reported	70.2	dead	6.1		not reported
+TCGA-AB-3000	1981	male	white	Primary Blood Derived Cancer - Peripheral Blood	not reported	25.3	alive		41.1	not reported
